@@ -1,0 +1,10 @@
+Text Block Title:
+Check out our latest video
+
+Display title enabled
+
+Content:
+https://youtu.be/JMggGkHl0oc
+
+Block Style :
+icon: youtube or video

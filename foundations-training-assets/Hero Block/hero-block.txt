@@ -1,0 +1,20 @@
+Hero Block
+
+Title: Homepage Hero
+Display title: disable (uncheck)
+
+Content Tab
+Headline: This is a hero block
+
+Text: A Hero Block is a great visual block that is accessible, but gives the look and feel of embedded text or layering.
+
+Links:
+URL: https://websupport.colorado.edu/
+Link Text: Link Text
+
+Design Tab:
+Size: Large
+Background image: Be-Boulder-sign.png
+Text Align: Left half
+Text color: white
+Link color: white

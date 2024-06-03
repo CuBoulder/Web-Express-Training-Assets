@@ -1,0 +1,17 @@
+Article Grid Block
+Placement: under main content, under article feature block
+
+Title: Department News
+Display Title Enabled
+
+Content Tab
+Body Content: Check out Latest News
+
+Count: 3
+Filters: Capstone, Mentoring, Research
+
+Check: Include Summary
+
+
+Styles Tab
+Block Style - background style - light green

@@ -1,0 +1,9 @@
+Article Grid Block:
+
+Title:
+News and Announcements
+
+Display title enabled
+
+Block Style 
+icon: newspaper

@@ -1,0 +1,8 @@
+Article Feature Block
+Placement: under main content
+
+Title: Feature News
+Display Title Enabled
+
+Display: 66/33
+Image Size: Regular

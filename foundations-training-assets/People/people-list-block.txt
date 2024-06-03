@@ -1,0 +1,9 @@
+People List Block
+Placement: right sidebar
+
+Title: Our Editors
+Display Title: enable
+
+Filters: Faculty
+
+Display: Name &Thumbnail
